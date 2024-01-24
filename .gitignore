@@ -1,0 +1,11 @@
+# Environment variables
+.env
+
+# faissdb directory
+faissdb/
+
+# vresume directory
+vresume/
+
+# Python bytecode cache
+__pycache__/
