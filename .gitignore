@@ -2,7 +2,7 @@
 .env
 
 # faissdb directory
-faissdb/
+faiss_db/
 
 # vresume directory
 vresume/
